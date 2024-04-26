@@ -1,5 +1,10 @@
 msgid ""
-msgstr "Content-Type: text/plain; charset=UTF-8"
+msgstr ""
+"openwrt/luciapplicationsacl/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: luci-app-frpc/luasrc/model/cbi/frpc/common.lua:71
 msgid "-- default --"
